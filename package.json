@@ -25,7 +25,7 @@
   "//dependencies": {},
   "dependencies": {
     "@actions/core": "^1.2.2",
-    "@octokit/action": "^2.0.0",
+    "@octokit/action": "^8.0.2",
     "@octokit/plugin-throttling": "^3.2.0",
     "moment": "^2.24.0",
     "yn": "^4.0.0"
